@@ -1,0 +1,11 @@
+graph TD
+    A[Produtos da Plataforma] -->|HTTP/REST| B(API Gateway)
+    B -->|HTTP/REST| C[Microserviço de Bilhetagem]
+    C -->|gRPC| D[Serviço de Validação]
+    C -->|gRPC| E[Serviço de Transformação]
+    C -->|AMQP| F[Fila de Mensagens]
+    F -->|AMQP| G[Serviço de Envio]
+    G -->|HTTP/REST| H[Sistema Externo de Cobrança e Faturamento]
+    C -->|SQL| I[(Banco de Dados)]
+    C -->|HTTP| J[Serviço de Log e Monitoramento]
+    K[Painel de Administração] -->|HTTP/REST| B
