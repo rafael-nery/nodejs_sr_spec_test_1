@@ -40,7 +40,7 @@ scripts/                  # Scripts de build, deploy, etc.
 
 Estabeleceremos os seguintes padrões:
 
-1. **Estilo de código**: Usaremos o ESLint com a configuração Airbnb, adaptada para TypeScript.
+1. **Estilo de código**: Usaremos o ESLint com a configuração Airbnb ou Standard (depende da preferencia da equipe), adaptada para TypeScript.
 
 2. **Formatação**: Prettier para garantir consistência na formatação.
 
