@@ -1,0 +1,335 @@
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T22:57:26.383Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T22:57:26.423Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T22:57:26.424Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-09T22:57:26.424Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T22:57:26.424Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T22:57:26.425Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T22:57:26.439Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T22:57:26.444Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-09T22:57:26.447Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-09T22:57:26.448Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-09T22:57:26.534Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-09T22:57:26.537Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-09T22:57:26.538Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-09T22:57:26.538Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-09T22:57:26.539Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-09T22:57:26.539Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-09T22:57:26.544Z"}
+{"level":"info","message":"Criando um novo usuário","timestamp":"2024-10-09T22:59:03.161Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T23:00:32.292Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T23:00:32.323Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:00:32.323Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-09T23:00:32.323Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T23:00:32.324Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T23:00:32.324Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T23:00:32.334Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:00:32.339Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-09T23:00:32.342Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-09T23:00:32.342Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-09T23:00:32.399Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-09T23:00:32.401Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-09T23:00:32.402Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-09T23:00:32.403Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-09T23:00:32.403Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-09T23:00:32.403Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-09T23:00:32.407Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T23:08:00.069Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T23:08:00.100Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:08:00.101Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T23:08:00.101Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-09T23:08:00.101Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:08:00.101Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:08:00.102Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T23:08:00.102Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T23:08:00.113Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:08:00.118Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-09T23:08:00.120Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-09T23:08:00.120Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-09T23:08:00.184Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-09T23:08:00.187Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-09T23:08:00.187Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-09T23:08:00.188Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-09T23:08:00.188Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-09T23:08:00.189Z"}
+{"level":"info","message":"AuthController {/auth}:","timestamp":"2024-10-09T23:08:00.189Z"}
+{"level":"info","message":"Mapped {/auth/login, POST} route","timestamp":"2024-10-09T23:08:00.189Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-09T23:08:00.192Z"}
+{"level":"info","message":"Buscando usuário com username: john_doe","timestamp":"2024-10-09T23:08:11.379Z"}
+{"level":"info","message":"Listando todos os usuários","timestamp":"2024-10-09T23:11:04.401Z"}
+{"level":"info","message":"Atualizando usuário com ID: 67070ab795c31eaffb1afb2c","timestamp":"2024-10-09T23:11:35.328Z"}
+{"level":"info","message":"Listando todos os usuários","timestamp":"2024-10-09T23:11:41.953Z"}
+{"level":"info","message":"Buscando usuário com username: john_doe_updated","timestamp":"2024-10-09T23:12:00.851Z"}
+{"level":"info","message":"Removendo usuário com ID: 67070ab795c31eaffb1afb2c","timestamp":"2024-10-09T23:12:21.601Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T23:30:51.564Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T23:30:51.601Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:30:51.601Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T23:30:51.601Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-09T23:30:51.602Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:30:51.602Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:30:51.602Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T23:30:51.603Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T23:30:51.616Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:30:51.622Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-09T23:30:51.624Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-09T23:30:51.624Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-09T23:30:51.695Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-09T23:30:51.699Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-09T23:30:51.700Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-09T23:30:51.700Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-09T23:30:51.701Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-09T23:30:51.702Z"}
+{"level":"info","message":"AuthController {/auth}:","timestamp":"2024-10-09T23:30:51.703Z"}
+{"level":"info","message":"Mapped {/auth/login, POST} route","timestamp":"2024-10-09T23:30:51.703Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-09T23:30:51.706Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T23:38:07.779Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-09T23:38:07.823Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:38:07.824Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T23:38:07.824Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-09T23:38:07.825Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T23:38:07.825Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:38:07.825Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:38:07.826Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T23:38:07.827Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T23:38:07.842Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:38:07.849Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-09T23:38:07.852Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-09T23:38:07.852Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-09T23:38:07.947Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-09T23:38:07.951Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-09T23:38:07.951Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-09T23:38:07.952Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-09T23:38:07.953Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-09T23:38:07.953Z"}
+{"level":"info","message":"AuthController {/auth}:","timestamp":"2024-10-09T23:38:07.954Z"}
+{"level":"info","message":"Mapped {/auth/login, POST} route","timestamp":"2024-10-09T23:38:07.954Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-09T23:38:07.957Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T23:39:39.446Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-09T23:39:39.485Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:39:39.485Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T23:39:39.485Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-09T23:39:39.486Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T23:39:39.486Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:39:39.486Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:39:39.487Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T23:39:39.488Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T23:39:39.500Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:39:39.506Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-09T23:39:39.508Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-09T23:39:39.509Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-09T23:39:39.609Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-09T23:39:39.612Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-09T23:39:39.613Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-09T23:39:39.614Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-09T23:39:39.614Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-09T23:39:39.615Z"}
+{"level":"info","message":"AuthController {/auth}:","timestamp":"2024-10-09T23:39:39.616Z"}
+{"level":"info","message":"Mapped {/auth/login, POST} route","timestamp":"2024-10-09T23:39:39.616Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-09T23:39:39.619Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T23:40:46.411Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-09T23:40:46.458Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:40:46.459Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T23:40:46.459Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-09T23:40:46.459Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T23:40:46.460Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:40:46.460Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:40:46.460Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T23:40:46.462Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T23:40:46.477Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:40:46.484Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-09T23:40:46.487Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-09T23:40:46.487Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-09T23:40:46.576Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-09T23:40:46.580Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-09T23:40:46.581Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-09T23:40:46.582Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-09T23:40:46.582Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-09T23:40:46.583Z"}
+{"level":"info","message":"AuthController {/auth}:","timestamp":"2024-10-09T23:40:46.584Z"}
+{"level":"info","message":"Mapped {/auth/login, POST} route","timestamp":"2024-10-09T23:40:46.584Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-09T23:40:46.587Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T23:46:52.367Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-09T23:46:52.422Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:46:52.422Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T23:46:52.423Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-09T23:46:52.423Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T23:46:52.424Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:46:52.424Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:46:52.425Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T23:46:52.426Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T23:46:52.445Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:46:52.454Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-09T23:46:52.457Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-09T23:46:52.457Z"}
+{"level":"info","message":"AppController {/}:","timestamp":"2024-10-09T23:46:52.549Z"}
+{"level":"info","message":"Mapped {/, GET} route","timestamp":"2024-10-09T23:46:52.552Z"}
+{"level":"info","message":"Mapped {/debug-sentry, GET} route","timestamp":"2024-10-09T23:46:52.553Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-09T23:46:52.553Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-09T23:46:52.555Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-09T23:46:52.555Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-09T23:46:52.557Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-09T23:46:52.557Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-09T23:46:52.558Z"}
+{"level":"info","message":"AuthController {/auth}:","timestamp":"2024-10-09T23:46:52.558Z"}
+{"level":"info","message":"Mapped {/auth/login, POST} route","timestamp":"2024-10-09T23:46:52.558Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-09T23:46:52.562Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T23:49:30.431Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-09T23:49:30.471Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:49:30.471Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T23:49:30.472Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-09T23:49:30.472Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T23:49:30.473Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:49:30.473Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:49:30.473Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T23:49:30.474Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T23:49:30.487Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:49:30.494Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-09T23:49:30.496Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-09T23:49:30.496Z"}
+{"level":"info","message":"AppController {/}:","timestamp":"2024-10-09T23:49:30.585Z"}
+{"level":"info","message":"Mapped {/, GET} route","timestamp":"2024-10-09T23:49:30.589Z"}
+{"level":"info","message":"Mapped {/debug-sentry, GET} route","timestamp":"2024-10-09T23:49:30.589Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-09T23:49:30.589Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-09T23:49:30.590Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-09T23:49:30.591Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-09T23:49:30.592Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-09T23:49:30.592Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-09T23:49:30.593Z"}
+{"level":"info","message":"AuthController {/auth}:","timestamp":"2024-10-09T23:49:30.593Z"}
+{"level":"info","message":"Mapped {/auth/login, POST} route","timestamp":"2024-10-09T23:49:30.593Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-09T23:49:30.596Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T23:50:26.241Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-09T23:50:26.283Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:50:26.283Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T23:50:26.283Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-09T23:50:26.284Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T23:50:26.284Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:50:26.285Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:50:26.285Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T23:50:26.287Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T23:50:26.305Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:50:26.316Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-09T23:50:26.319Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-09T23:50:26.319Z"}
+{"level":"info","message":"AppController {/}:","timestamp":"2024-10-09T23:50:26.407Z"}
+{"level":"info","message":"Mapped {/, GET} route","timestamp":"2024-10-09T23:50:26.410Z"}
+{"level":"info","message":"Mapped {/debug-sentry, GET} route","timestamp":"2024-10-09T23:50:26.410Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-09T23:50:26.410Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-09T23:50:26.411Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-09T23:50:26.412Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-09T23:50:26.412Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-09T23:50:26.413Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-09T23:50:26.413Z"}
+{"level":"info","message":"AuthController {/auth}:","timestamp":"2024-10-09T23:50:26.413Z"}
+{"level":"info","message":"Mapped {/auth/login, POST} route","timestamp":"2024-10-09T23:50:26.414Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-09T23:50:26.416Z"}
+{"level":"info","message":"Chamando método getHello","timestamp":"2024-10-09T23:50:27.922Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T23:51:10.690Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-09T23:51:10.735Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:51:10.736Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T23:51:10.736Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-09T23:51:10.737Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T23:51:10.737Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:51:10.738Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:51:10.738Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T23:51:10.739Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T23:51:10.754Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:51:10.761Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-09T23:51:10.764Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-09T23:51:10.764Z"}
+{"level":"info","message":"AppController {/}:","timestamp":"2024-10-09T23:51:10.859Z"}
+{"level":"info","message":"Mapped {/, GET} route","timestamp":"2024-10-09T23:51:10.862Z"}
+{"level":"info","message":"Mapped {/debug-sentry, GET} route","timestamp":"2024-10-09T23:51:10.863Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-09T23:51:10.863Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-09T23:51:10.864Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-09T23:51:10.864Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-09T23:51:10.865Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-09T23:51:10.866Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-09T23:51:10.866Z"}
+{"level":"info","message":"AuthController {/auth}:","timestamp":"2024-10-09T23:51:10.866Z"}
+{"level":"info","message":"Mapped {/auth/login, POST} route","timestamp":"2024-10-09T23:51:10.867Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-09T23:51:10.870Z"}
+{"level":"warn","message":"Chamando método triggerError","timestamp":"2024-10-09T23:51:20.126Z"}
+{"level":"error","message":"Erro capturado em triggerError","timestamp":"2024-10-09T23:51:20.128Z","trace":"Error: Erro intencional para teste do Sentry\n    at AppService.triggerError (/app.service.ts:24:13)\n    at AppController.getError (/app.controller.ts:15:28)\n    at /Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/router/router-execution-context.js:38:29\n    at InterceptorsConsumer.transformDeferred (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:31:33)\n    at /Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:18:86\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at bound (node:async_hooks:238:16)\n    at Observable._subscribe (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/observable/defer.ts:55:15)\n    at Observable.Observable._trySubscribe (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/Observable.ts:244:19)\n    at <anonymous> (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/Observable.ts:234:18)"}
+{"level":"warn","message":"Chamando método triggerError","timestamp":"2024-10-09T23:52:00.362Z"}
+{"level":"error","message":"Erro capturado em triggerError","timestamp":"2024-10-09T23:52:00.363Z","trace":"Error: Erro intencional para teste do Sentry\n    at AppService.triggerError (/app.service.ts:24:13)\n    at AppController.getError (/app.controller.ts:15:28)\n    at /Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/router/router-execution-context.js:38:29\n    at InterceptorsConsumer.transformDeferred (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:31:33)\n    at /Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:18:86\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at bound (node:async_hooks:238:16)\n    at Observable._subscribe (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/observable/defer.ts:55:15)\n    at Observable.Observable._trySubscribe (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/Observable.ts:244:19)\n    at <anonymous> (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/Observable.ts:234:18)"}
+{"level":"warn","message":"Chamando método triggerError","timestamp":"2024-10-09T23:52:01.166Z"}
+{"level":"error","message":"Erro capturado em triggerError","timestamp":"2024-10-09T23:52:01.167Z","trace":"Error: Erro intencional para teste do Sentry\n    at AppService.triggerError (/app.service.ts:24:13)\n    at AppController.getError (/app.controller.ts:15:28)\n    at /Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/router/router-execution-context.js:38:29\n    at InterceptorsConsumer.transformDeferred (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:31:33)\n    at /Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:18:86\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at bound (node:async_hooks:238:16)\n    at Observable._subscribe (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/observable/defer.ts:55:15)\n    at Observable.Observable._trySubscribe (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/Observable.ts:244:19)\n    at <anonymous> (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/Observable.ts:234:18)"}
+{"level":"warn","message":"Chamando método triggerError","timestamp":"2024-10-09T23:52:01.510Z"}
+{"level":"error","message":"Erro capturado em triggerError","timestamp":"2024-10-09T23:52:01.510Z","trace":"Error: Erro intencional para teste do Sentry\n    at AppService.triggerError (/app.service.ts:24:13)\n    at AppController.getError (/app.controller.ts:15:28)\n    at /Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/router/router-execution-context.js:38:29\n    at InterceptorsConsumer.transformDeferred (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:31:33)\n    at /Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:18:86\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at bound (node:async_hooks:238:16)\n    at Observable._subscribe (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/observable/defer.ts:55:15)\n    at Observable.Observable._trySubscribe (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/Observable.ts:244:19)\n    at <anonymous> (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/Observable.ts:234:18)"}
+{"level":"warn","message":"Chamando método triggerError","timestamp":"2024-10-09T23:52:01.801Z"}
+{"level":"error","message":"Erro capturado em triggerError","timestamp":"2024-10-09T23:52:01.803Z","trace":"Error: Erro intencional para teste do Sentry\n    at AppService.triggerError (/app.service.ts:24:13)\n    at AppController.getError (/app.controller.ts:15:28)\n    at /Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/router/router-execution-context.js:38:29\n    at InterceptorsConsumer.transformDeferred (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:31:33)\n    at /Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/@nestjs+core@10.4.4_@nestjs+common@10.4.4_@nestjs+platform-express@10.4.4_reflect-metadata@0.2.2_rxjs@7.8.1/node_modules/@nestjs/core/interceptors/interceptors-consumer.js:18:86\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at bound (node:async_hooks:238:16)\n    at Observable._subscribe (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/observable/defer.ts:55:15)\n    at Observable.Observable._trySubscribe (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/Observable.ts:244:19)\n    at <anonymous> (/Users/rafaelnery/Documents/GitHub/nodejs_sr_spec_test_1/parte2/node_modules/.pnpm/rxjs@7.8.1/node_modules/rxjs/src/internal/Observable.ts:234:18)"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-09T23:52:38.041Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-09T23:52:38.082Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-09T23:52:38.082Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-09T23:52:38.082Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-09T23:52:38.083Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-09T23:52:38.084Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:52:38.084Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-09T23:52:38.084Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-09T23:52:38.085Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-09T23:52:38.099Z"}
+{"level":"info","message":"Listando todos os usuários","timestamp":"2024-10-09T23:58:58.941Z"}
+{"level":"info","message":"Removendo usuário com ID: someid","timestamp":"2024-10-09T23:58:58.978Z"}
+{"level":"info","message":"Removendo usuário com ID: invalidid","timestamp":"2024-10-09T23:58:58.982Z"}
+{"level":"info","message":"Atualizando usuário com ID: invalidid","timestamp":"2024-10-09T23:58:58.963Z"}
+{"level":"info","message":"Buscando usuário com username: testuser","timestamp":"2024-10-09T23:58:58.954Z"}
+{"level":"info","message":"Atualizando usuário com ID: someid","timestamp":"2024-10-09T23:58:58.958Z"}
+{"level":"error","message":"Usuário com ID invalidid não encontrado","timestamp":"2024-10-09T23:58:58.983Z","trace":"UserService"}
+{"level":"error","message":"Usuário com ID invalidid não encontrado","timestamp":"2024-10-09T23:58:58.964Z","trace":"UserService"}
+{"level":"info","message":"Criando um novo usuário","timestamp":"2024-10-10T00:15:35.283Z"}
+{"level":"info","message":"Criando um novo usuário","timestamp":"2024-10-10T00:17:06.671Z"}
+{"level":"info","message":"Criando um novo usuário","timestamp":"2024-10-10T00:18:21.181Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-10T17:11:07.361Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-10T17:11:07.404Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-10T17:11:07.405Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-10T17:11:07.405Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-10T17:11:07.405Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-10T17:11:07.406Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-10T17:11:07.406Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-10T17:11:07.407Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-10T17:11:07.408Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-10T17:11:07.447Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-10T17:11:07.454Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-10T17:11:07.456Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-10T17:11:07.456Z"}
+{"level":"info","message":"AppController {/}:","timestamp":"2024-10-10T17:11:07.565Z"}
+{"level":"info","message":"Mapped {/, GET} route","timestamp":"2024-10-10T17:11:07.569Z"}
+{"level":"info","message":"Mapped {/debug-sentry, GET} route","timestamp":"2024-10-10T17:11:07.569Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-10T17:11:07.570Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-10T17:11:07.570Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-10T17:11:07.571Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-10T17:11:07.572Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-10T17:11:07.573Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-10T17:11:07.573Z"}
+{"level":"info","message":"AuthController {/auth}:","timestamp":"2024-10-10T17:11:07.573Z"}
+{"level":"info","message":"Mapped {/auth/login, POST} route","timestamp":"2024-10-10T17:11:07.574Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-10T17:11:07.578Z"}
+{"level":"info","message":"Chamando método getHello","timestamp":"2024-10-10T17:11:17.704Z"}
+{"level":"info","message":"Starting Nest application...","timestamp":"2024-10-10T17:23:30.407Z"}
+{"level":"info","message":"SentryModule dependencies initialized","timestamp":"2024-10-10T17:23:30.475Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-10T17:23:30.475Z"}
+{"level":"info","message":"PassportModule dependencies initialized","timestamp":"2024-10-10T17:23:30.476Z"}
+{"level":"info","message":"ConfigHostModule dependencies initialized","timestamp":"2024-10-10T17:23:30.478Z"}
+{"level":"info","message":"AppModule dependencies initialized","timestamp":"2024-10-10T17:23:30.479Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-10T17:23:30.480Z"}
+{"level":"info","message":"ConfigModule dependencies initialized","timestamp":"2024-10-10T17:23:30.481Z"}
+{"level":"info","message":"JwtModule dependencies initialized","timestamp":"2024-10-10T17:23:30.489Z"}
+{"level":"info","message":"MongooseCoreModule dependencies initialized","timestamp":"2024-10-10T17:23:30.515Z"}
+{"level":"info","message":"MongooseModule dependencies initialized","timestamp":"2024-10-10T17:23:30.525Z"}
+{"level":"info","message":"AuthModule dependencies initialized","timestamp":"2024-10-10T17:23:30.529Z"}
+{"level":"info","message":"UserModule dependencies initialized","timestamp":"2024-10-10T17:23:30.530Z"}
+{"level":"info","message":"AppController {/}:","timestamp":"2024-10-10T17:23:30.589Z"}
+{"level":"info","message":"Mapped {/, GET} route","timestamp":"2024-10-10T17:23:30.593Z"}
+{"level":"info","message":"Mapped {/debug-sentry, GET} route","timestamp":"2024-10-10T17:23:30.594Z"}
+{"level":"info","message":"UserController {/users}:","timestamp":"2024-10-10T17:23:30.595Z"}
+{"level":"info","message":"Mapped {/users/register, POST} route","timestamp":"2024-10-10T17:23:30.596Z"}
+{"level":"info","message":"Mapped {/users, GET} route","timestamp":"2024-10-10T17:23:30.597Z"}
+{"level":"info","message":"Mapped {/users/:username, GET} route","timestamp":"2024-10-10T17:23:30.599Z"}
+{"level":"info","message":"Mapped {/users/:id, PATCH} route","timestamp":"2024-10-10T17:23:30.600Z"}
+{"level":"info","message":"Mapped {/users/:id, DELETE} route","timestamp":"2024-10-10T17:23:30.600Z"}
+{"level":"info","message":"AuthController {/auth}:","timestamp":"2024-10-10T17:23:30.601Z"}
+{"level":"info","message":"Mapped {/auth/login, POST} route","timestamp":"2024-10-10T17:23:30.601Z"}
+{"level":"info","message":"Nest application successfully started","timestamp":"2024-10-10T17:23:30.606Z"}
+{"level":"info","message":"Chamando método getHello","timestamp":"2024-10-10T17:25:25.635Z"}
+{"level":"info","message":"Chamando método getHello","timestamp":"2024-10-10T18:00:38.843Z"}
+{"level":"info","message":"Chamando método getHello","timestamp":"2024-10-10T18:00:39.232Z"}
